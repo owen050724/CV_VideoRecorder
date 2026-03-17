@@ -1,4 +1,4 @@
-﻿# MintCam Recorder
+﻿# MotionLens
 
 OpenCV 기반 실시간 Video Recorder입니다.  
 단일 카메라 창에서 **클릭 UI + 단축키**로 녹화/필터/모션/포즈 기능을 제어할 수 있습니다.
@@ -112,14 +112,9 @@ C:\Users\owen0\AppData\Local\Programs\Python\Python311\python.exe -m venv .venv3
 
 ---
 
-## 과제 요구사항 체크
+## Demo Screenshot
 
-- OpenCV `VideoCapture` 사용
-- OpenCV `VideoWriter` 사용
-- Preview/Record 모드 전환
-- Record 모드 표시(빨간 인디케이터)
-- `Space` 모드 전환
-- `ESC` 종료
+![MotionLens Demo](screenshot2.png)
 
 ---
 
